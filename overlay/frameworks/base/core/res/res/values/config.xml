@@ -289,4 +289,8 @@
         <item>2</item> <!-- COLOR_MODE_SATURATED -->
         <item>3</item> <!-- COLOR_MODE_AUTOMATIC -->
     </integer-array>
+
+    <!-- Smart charging-->
+    <bool name="config_supportSmartCharging">true</bool>
+
 </resources>
